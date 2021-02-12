@@ -1,0 +1,6 @@
+Jim - Salesman
+Peter - Manager
+May - Director
+June - CTO
+Toby - Human Resources
+Kelly - Customer Service

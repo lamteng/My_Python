@@ -1,4 +1,3 @@
-# 3:28:47
 from Chef import Chef
 from ChineseChef import ChineseChef
 
